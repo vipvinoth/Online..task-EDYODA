@@ -1,0 +1,125 @@
+#overall{
+    display: flex;
+}
+span{
+    color: #0048ff;
+}
+del{
+    color: #FF0000;
+}
+#main{
+    margin: 50px 0 0 90px;
+    color: white;
+}
+h3{
+    font-size: 24px;
+    padding-top: 20px;
+}
+#payment{
+    border: 1px solid black;
+    border-radius: 6px;
+    width: 400px;
+    height: 500px;
+    margin: 40px 0 0 260px ;
+    background-color: white;
+    color: black;
+}
+#numberone{
+    margin: 10px 200px 0 0;
+    text-align: center;
+    font-weight: lighter;
+}
+#numbertwo{
+    margin: -45px 50px 0 260px;
+    text-align: center;
+    font-weight: lighter;
+}
+#payment> h4{
+    text-align: center;
+    padding-top: 10px;
+}
+#expired{
+    font-size: 12px;
+    border: 1xp solid black;
+    margin-top: -21px;
+    color: #de4313;
+    font-weight: bold;
+}
+#recommended{
+    font-size: 12px;
+    border: 1xp solid black;
+    margin-top: -21px;
+    color: #1bb145;
+    font-weight: bold;
+}
+.form-check1{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 350px;
+    height: 35px;
+    margin: 16px 0 0 20px ;
+    padding-left: 22px;
+}
+.form-check{
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 350px;
+    height: 35px;
+    margin: 16px 0 0 20px ;
+    padding-left: 40px;
+}
+.form-check:hover{
+    border: 1px solid #1bb145;
+    background-color: #9cb4f0;
+    color: white;
+}
+#price{
+    font-size: 13px;
+    margin:-26px 0 0 230px;
+}
+hr{
+    margin: 10px 30px 0 20px;
+}
+h6 > span {
+    margin-right: 160px;
+}
+h6{
+    font-size: 12px;
+}
+#fees{
+   margin: 5px 0 0 30px; 
+}
+#offertime{
+    border: 1px solid #de4313;
+    border-radius: 2px;
+    background-color: #f0ba88;
+    color: #de4313;
+    width: 350px;
+    margin: 5px 0 0 20px;
+    padding-left: 8px;
+}
+div > h5{
+    font-size: 12px;
+    margin: -18px 0 0 280px;
+}
+#final{
+    margin: 5px 0 0 30px;
+}
+#cancel{
+    border: 1px solid #de4313;
+    background-color: white;
+    color: #de4313;
+    margin: 5px 0 0 22px;
+    width: 150px;
+}
+#pay{
+    border: 1px solid #1bb145;
+    background-color: #1bb145;
+    color: white;
+    margin: 5px 0 0 40px;
+    width: 150px;
+}
+img{
+    margin: 2px 0 0 22px;
+    height: 35px;
+}
